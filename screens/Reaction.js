@@ -14,7 +14,7 @@ export default class HelloWorldApp extends Component {
       <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
         <Button
         title="Go to the new screen!"
-        onPress={() => navigation.navigate('Browse')}
+        onPress={() => navigation.navigate('Newscreen')}
         
       />
       </View>

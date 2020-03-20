@@ -31,7 +31,9 @@ const images = [
   require("./assets/images/illustration_1.png"),
   require("./assets/images/illustration_2.png"),
   require("./assets/images/illustration_3.png"),
-  require("./assets/images/avatar.png")
+  require("./assets/images/avatar.png"),
+  require("./assets/images/objawy.png")
+
 ];
 
 const SideMenu = require('react-native-side-menu');
